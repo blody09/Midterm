@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\obj\Debug\netcoreapp3.1\Library_Midterm.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\obj\Debug\netcoreapp3.1\Library_Midterm.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\obj\Debug\netcoreapp3.1\Library_Midterm.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\bin\Debug\netcoreapp3.1\Library_Midterm.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\bin\Debug\netcoreapp3.1\Library_Midterm.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\bin\Debug\netcoreapp3.1\Library_Midterm.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\bin\Debug\netcoreapp3.1\Library_Midterm.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\bin\Debug\netcoreapp3.1\Library_Midterm.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\bin\Debug\netcoreapp3.1\Library_Midterm.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\obj\Debug\netcoreapp3.1\Library_Midterm.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Library_Midterm\Library_Midterm\obj\Debug\netcoreapp3.1\Library_Midterm.pdb
